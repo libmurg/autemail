@@ -1,0 +1,12 @@
+# Notebooks
+*-checkpoint.ipynb
+*.ipynb
+ipynb_checkpoints/
+
+
+# Python
+__pycache__/
+*.pyc
+
+# Secrets
+secrets.ini
